@@ -1,0 +1,30 @@
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+B                                             U                                     J                 J         J     B
+B   J    J           J                     J  U              J                            J   J   J        J       J  B
+B                                       J     U     J                                   J                     J       B
+B   J                J                        U          J                     J J         J    J     J         J     B
+B       J                                  J  U  J                          GGGGGGG                       J        H  B
+B                    J                        U                                   U J     GGGGGGGGGGGGGGGGGGGGGGGGGGGGB
+B   J           d                             U                                   U                                   B
+B           GGGGGGGGGGG   J           G       U        J GGGGGGG      J        J  U       J                 J      J  B
+B                                     U J     U J         J       J               U     J                       J     B
+B                       J   J         U       U                       J           U                          J        B
+B                                     U       U                          J      J U                                J  B
+B                         J           U       U      J                            U                J                  B
+B                             J       U       UGGGGGGGGGGGGGGGGG                  UGGGGGGGGGG  J                      B
+B   GGGGG                             U     J                            J                          J                 B
+B                           J         U                                          J    J         J                     B
+B    J    J                           U                                                    J         J             D  B
+B                             J       U                                   J          J         J        J    GGGGGGGGGB
+B         J                 J         U                         GGGGGGG                      J     J                  B
+B   J                GGGGG            U                                                    J            J  J     J    B
+B                J                    U                     J     J      J   J        J       J  J   J                B
+B                                  J  U J   GGGGGGGG   J              J                  J              J    J J   J  B
+B J                J                  U                   J              J                  J   J                     B
+B              J                      U        J   J                  J                             J     J   J   J   B
+B       GGGGG                         U J                                   J                J              J         B
+B                                J    U     GGG  J                                  J              J   J         J    B
+B                                     U                         J                                          J          B
+B  J                           J   J  U J                          J                J                            J    B
+B              aaaaAaaaa              U                    J  J                               aaaaaaaAaaaaaa          B
+GGGGGGGGGGGGUGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG

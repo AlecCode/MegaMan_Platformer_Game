@@ -1,0 +1,30 @@
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S
+S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S
+S M S M S M S M S M S M S M S M S M S M S M S M S M S M S M S M S M S M S M S
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+S   S                                                                   S   S
+S   S                                                                   S   S
+S M S     J                                                             S M S
+SSSSS   SSSSS                                           SSSSS           SSSSS
+S   S   S   S                                           S   S           S   S
+S   S   S   S                                           S   S           S   S
+S M S   S M S L                                         S M S     L   H S M S
+SSSSS   SSSSSSSSS                           SSSSS       SSSSS   SSSSSSSSSSSSS
+S   S       S   S                           S   S               S   S   S   S
+S   S       S   S                           S   S               S   S   S   S
+S M S       S M S                           S M S               S M S M S M S
+SSSSS       SSSSS               SSSSS       SSSSS               SSSSSSSSSSSSS
+S   S                           S   S                                   S   S
+S   S                           S   S                                   S   S
+S M S                           S M S                                   S M S
+SSSSS               SSSSS       SSSSS                   SSSSS           SSSSS
+S   S               S   S                               S   S           S   S
+S   S               S   S                               S   S           S   S
+S M S d             S M S                               S M S         D S M S
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S
+S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S
+S M S M S M S M S M S M S M S M S M S M S M S M S M S M S M S M S M S M S M S
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
